@@ -22,5 +22,5 @@ This will download and extract the course data for you.
 2. Clone this repo: `git clone https://github.com/<your GitHub username>/scratchpad`
 3. Open `scratchpad` in your Code Server session
 4. At the command line, run `bash build.sh` ; this will build a virtual environment and download/extract your data
-
-To get your work back to Github, at the command line, run `git push origin main`
+5. To save your work locally, `git commit -am '<Describe your changes>'`
+6. To get your work back to Github, at the command line, run `git push origin main`
